@@ -1,0 +1,52 @@
+C:\Users\karol\Documents\Karolina_Siedlecka\Project\RestaurantManagement.DAL\bin\Debug\net9.0\RestaurantManagement.DAL.deps.json
+C:\Users\karol\Documents\Karolina_Siedlecka\Project\RestaurantManagement.DAL\bin\Debug\net9.0\RestaurantManagement.DAL.runtimeconfig.json
+C:\Users\karol\Documents\Karolina_Siedlecka\Project\RestaurantManagement.DAL\bin\Debug\net9.0\RestaurantManagement.DAL.dll
+C:\Users\karol\Documents\Karolina_Siedlecka\Project\RestaurantManagement.DAL\bin\Debug\net9.0\RestaurantManagement.DAL.pdb
+C:\Users\karol\Documents\Karolina_Siedlecka\Project\RestaurantManagement.DAL\bin\Debug\net9.0\RestaurantManagement.Models.dll
+C:\Users\karol\Documents\Karolina_Siedlecka\Project\RestaurantManagement.DAL\bin\Debug\net9.0\RestaurantManagement.Models.pdb
+C:\Users\karol\Documents\Karolina_Siedlecka\Project\RestaurantManagement.DAL\obj\Debug\net9.0\RestaurantManagement.DAL.csproj.AssemblyReference.cache
+C:\Users\karol\Documents\Karolina_Siedlecka\Project\RestaurantManagement.DAL\obj\Debug\net9.0\RestaurantManagement.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karol\Documents\Karolina_Siedlecka\Project\RestaurantManagement.DAL\obj\Debug\net9.0\RestaurantManagement.DAL.AssemblyInfoInputs.cache
+C:\Users\karol\Documents\Karolina_Siedlecka\Project\RestaurantManagement.DAL\obj\Debug\net9.0\RestaurantManagement.DAL.AssemblyInfo.cs
+C:\Users\karol\Documents\Karolina_Siedlecka\Project\RestaurantManagement.DAL\obj\Debug\net9.0\RestaurantManagement.DAL.csproj.CoreCompileInputs.cache
+C:\Users\karol\Documents\Karolina_Siedlecka\Project\RestaurantManagement.DAL\obj\Debug\net9.0\RestaurantManagement.DAL.sourcelink.json
+C:\Users\karol\Documents\Karolina_Siedlecka\Project\RestaurantManagement.DAL\obj\Debug\net9.0\Restaura.508E73CA.Up2Date
+C:\Users\karol\Documents\Karolina_Siedlecka\Project\RestaurantManagement.DAL\obj\Debug\net9.0\RestaurantManagement.DAL.dll
+C:\Users\karol\Documents\Karolina_Siedlecka\Project\RestaurantManagement.DAL\obj\Debug\net9.0\refint\RestaurantManagement.DAL.dll
+C:\Users\karol\Documents\Karolina_Siedlecka\Project\RestaurantManagement.DAL\obj\Debug\net9.0\RestaurantManagement.DAL.pdb
+C:\Users\karol\Documents\Karolina_Siedlecka\Project\RestaurantManagement.DAL\obj\Debug\net9.0\RestaurantManagement.DAL.genruntimeconfig.cache
+C:\Users\karol\Documents\Karolina_Siedlecka\Project\RestaurantManagement.DAL\obj\Debug\net9.0\ref\RestaurantManagement.DAL.dll
+C:\Users\karol\Desktop\Project_Restaurant\Project\RestaurantManagement.DAL\bin\Debug\net9.0\RestaurantManagement.DAL.deps.json
+C:\Users\karol\Desktop\Project_Restaurant\Project\RestaurantManagement.DAL\bin\Debug\net9.0\RestaurantManagement.DAL.runtimeconfig.json
+C:\Users\karol\Desktop\Project_Restaurant\Project\RestaurantManagement.DAL\bin\Debug\net9.0\RestaurantManagement.DAL.dll
+C:\Users\karol\Desktop\Project_Restaurant\Project\RestaurantManagement.DAL\bin\Debug\net9.0\RestaurantManagement.DAL.pdb
+C:\Users\karol\Desktop\Project_Restaurant\Project\RestaurantManagement.DAL\bin\Debug\net9.0\RestaurantManagement.Models.dll
+C:\Users\karol\Desktop\Project_Restaurant\Project\RestaurantManagement.DAL\bin\Debug\net9.0\RestaurantManagement.Models.pdb
+C:\Users\karol\Desktop\Project_Restaurant\Project\RestaurantManagement.DAL\obj\Debug\net9.0\RestaurantManagement.DAL.csproj.AssemblyReference.cache
+C:\Users\karol\Desktop\Project_Restaurant\Project\RestaurantManagement.DAL\obj\Debug\net9.0\RestaurantManagement.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karol\Desktop\Project_Restaurant\Project\RestaurantManagement.DAL\obj\Debug\net9.0\RestaurantManagement.DAL.AssemblyInfoInputs.cache
+C:\Users\karol\Desktop\Project_Restaurant\Project\RestaurantManagement.DAL\obj\Debug\net9.0\RestaurantManagement.DAL.AssemblyInfo.cs
+C:\Users\karol\Desktop\Project_Restaurant\Project\RestaurantManagement.DAL\obj\Debug\net9.0\RestaurantManagement.DAL.csproj.CoreCompileInputs.cache
+C:\Users\karol\Desktop\Project_Restaurant\Project\RestaurantManagement.DAL\obj\Debug\net9.0\Restaura.508E73CA.Up2Date
+C:\Users\karol\Desktop\Project_Restaurant\Project\RestaurantManagement.DAL\obj\Debug\net9.0\RestaurantManagement.DAL.dll
+C:\Users\karol\Desktop\Project_Restaurant\Project\RestaurantManagement.DAL\obj\Debug\net9.0\refint\RestaurantManagement.DAL.dll
+C:\Users\karol\Desktop\Project_Restaurant\Project\RestaurantManagement.DAL\obj\Debug\net9.0\RestaurantManagement.DAL.pdb
+C:\Users\karol\Desktop\Project_Restaurant\Project\RestaurantManagement.DAL\obj\Debug\net9.0\RestaurantManagement.DAL.genruntimeconfig.cache
+C:\Users\karol\Desktop\Project_Restaurant\Project\RestaurantManagement.DAL\obj\Debug\net9.0\ref\RestaurantManagement.DAL.dll
+C:\Users\karol\Desktop\Studia\2 rok\semestr 1\Project_Restaurant\Project\RestaurantManagement.DAL\bin\Debug\net9.0\RestaurantManagement.DAL.deps.json
+C:\Users\karol\Desktop\Studia\2 rok\semestr 1\Project_Restaurant\Project\RestaurantManagement.DAL\bin\Debug\net9.0\RestaurantManagement.DAL.runtimeconfig.json
+C:\Users\karol\Desktop\Studia\2 rok\semestr 1\Project_Restaurant\Project\RestaurantManagement.DAL\bin\Debug\net9.0\RestaurantManagement.DAL.dll
+C:\Users\karol\Desktop\Studia\2 rok\semestr 1\Project_Restaurant\Project\RestaurantManagement.DAL\bin\Debug\net9.0\RestaurantManagement.DAL.pdb
+C:\Users\karol\Desktop\Studia\2 rok\semestr 1\Project_Restaurant\Project\RestaurantManagement.DAL\bin\Debug\net9.0\RestaurantManagement.Models.dll
+C:\Users\karol\Desktop\Studia\2 rok\semestr 1\Project_Restaurant\Project\RestaurantManagement.DAL\bin\Debug\net9.0\RestaurantManagement.Models.pdb
+C:\Users\karol\Desktop\Studia\2 rok\semestr 1\Project_Restaurant\Project\RestaurantManagement.DAL\obj\Debug\net9.0\RestaurantManagement.DAL.csproj.AssemblyReference.cache
+C:\Users\karol\Desktop\Studia\2 rok\semestr 1\Project_Restaurant\Project\RestaurantManagement.DAL\obj\Debug\net9.0\RestaurantManagement.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karol\Desktop\Studia\2 rok\semestr 1\Project_Restaurant\Project\RestaurantManagement.DAL\obj\Debug\net9.0\RestaurantManagement.DAL.AssemblyInfoInputs.cache
+C:\Users\karol\Desktop\Studia\2 rok\semestr 1\Project_Restaurant\Project\RestaurantManagement.DAL\obj\Debug\net9.0\RestaurantManagement.DAL.AssemblyInfo.cs
+C:\Users\karol\Desktop\Studia\2 rok\semestr 1\Project_Restaurant\Project\RestaurantManagement.DAL\obj\Debug\net9.0\RestaurantManagement.DAL.csproj.CoreCompileInputs.cache
+C:\Users\karol\Desktop\Studia\2 rok\semestr 1\Project_Restaurant\Project\RestaurantManagement.DAL\obj\Debug\net9.0\Restaura.508E73CA.Up2Date
+C:\Users\karol\Desktop\Studia\2 rok\semestr 1\Project_Restaurant\Project\RestaurantManagement.DAL\obj\Debug\net9.0\RestaurantManagement.DAL.dll
+C:\Users\karol\Desktop\Studia\2 rok\semestr 1\Project_Restaurant\Project\RestaurantManagement.DAL\obj\Debug\net9.0\refint\RestaurantManagement.DAL.dll
+C:\Users\karol\Desktop\Studia\2 rok\semestr 1\Project_Restaurant\Project\RestaurantManagement.DAL\obj\Debug\net9.0\RestaurantManagement.DAL.pdb
+C:\Users\karol\Desktop\Studia\2 rok\semestr 1\Project_Restaurant\Project\RestaurantManagement.DAL\obj\Debug\net9.0\RestaurantManagement.DAL.genruntimeconfig.cache
+C:\Users\karol\Desktop\Studia\2 rok\semestr 1\Project_Restaurant\Project\RestaurantManagement.DAL\obj\Debug\net9.0\ref\RestaurantManagement.DAL.dll

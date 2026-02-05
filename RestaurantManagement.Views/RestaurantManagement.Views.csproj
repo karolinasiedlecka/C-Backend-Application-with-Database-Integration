@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0-windows7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RestaurantManagement.DAL\RestaurantManagement.DAL.csproj" />
+    <ProjectReference Include="..\RestaurantManagement.View.Abstractions\RestaurantManagement.View.Abstractions.csproj" />
+    <ProjectReference Include="..\RestaurantManagement.ViewModel\RestaurantManagement.ViewModel.csproj" />
+  </ItemGroup>
+
+</Project>

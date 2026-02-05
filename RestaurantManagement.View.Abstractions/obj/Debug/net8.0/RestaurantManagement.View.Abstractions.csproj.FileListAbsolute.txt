@@ -1,0 +1,11 @@
+C:\Users\karol\Desktop\Studia\2 rok\semestr 1\Project_Restaurant\Project\RestaurantManagement.View.Abstractions\bin\Debug\net8.0\RestaurantManagement.View.Abstractions.deps.json
+C:\Users\karol\Desktop\Studia\2 rok\semestr 1\Project_Restaurant\Project\RestaurantManagement.View.Abstractions\bin\Debug\net8.0\RestaurantManagement.View.Abstractions.dll
+C:\Users\karol\Desktop\Studia\2 rok\semestr 1\Project_Restaurant\Project\RestaurantManagement.View.Abstractions\bin\Debug\net8.0\RestaurantManagement.View.Abstractions.pdb
+C:\Users\karol\Desktop\Studia\2 rok\semestr 1\Project_Restaurant\Project\RestaurantManagement.View.Abstractions\obj\Debug\net8.0\RestaurantManagement.View.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karol\Desktop\Studia\2 rok\semestr 1\Project_Restaurant\Project\RestaurantManagement.View.Abstractions\obj\Debug\net8.0\RestaurantManagement.View.Abstractions.AssemblyInfoInputs.cache
+C:\Users\karol\Desktop\Studia\2 rok\semestr 1\Project_Restaurant\Project\RestaurantManagement.View.Abstractions\obj\Debug\net8.0\RestaurantManagement.View.Abstractions.AssemblyInfo.cs
+C:\Users\karol\Desktop\Studia\2 rok\semestr 1\Project_Restaurant\Project\RestaurantManagement.View.Abstractions\obj\Debug\net8.0\RestaurantManagement.View.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\karol\Desktop\Studia\2 rok\semestr 1\Project_Restaurant\Project\RestaurantManagement.View.Abstractions\obj\Debug\net8.0\RestaurantManagement.View.Abstractions.dll
+C:\Users\karol\Desktop\Studia\2 rok\semestr 1\Project_Restaurant\Project\RestaurantManagement.View.Abstractions\obj\Debug\net8.0\refint\RestaurantManagement.View.Abstractions.dll
+C:\Users\karol\Desktop\Studia\2 rok\semestr 1\Project_Restaurant\Project\RestaurantManagement.View.Abstractions\obj\Debug\net8.0\RestaurantManagement.View.Abstractions.pdb
+C:\Users\karol\Desktop\Studia\2 rok\semestr 1\Project_Restaurant\Project\RestaurantManagement.View.Abstractions\obj\Debug\net8.0\ref\RestaurantManagement.View.Abstractions.dll

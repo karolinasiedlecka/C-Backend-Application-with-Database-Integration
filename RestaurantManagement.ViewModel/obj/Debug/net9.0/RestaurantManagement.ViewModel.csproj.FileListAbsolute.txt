@@ -1,0 +1,17 @@
+C:\Users\karol\Desktop\Studia\2 rok\semestr 1\Project_Restaurant\Project\RestaurantManagement.ViewModel\bin\Debug\net9.0\RestaurantManagement.ViewModel.deps.json
+C:\Users\karol\Desktop\Studia\2 rok\semestr 1\Project_Restaurant\Project\RestaurantManagement.ViewModel\bin\Debug\net9.0\RestaurantManagement.ViewModel.dll
+C:\Users\karol\Desktop\Studia\2 rok\semestr 1\Project_Restaurant\Project\RestaurantManagement.ViewModel\bin\Debug\net9.0\RestaurantManagement.ViewModel.pdb
+C:\Users\karol\Desktop\Studia\2 rok\semestr 1\Project_Restaurant\Project\RestaurantManagement.ViewModel\bin\Debug\net9.0\RestaurantManagement.DAL.dll
+C:\Users\karol\Desktop\Studia\2 rok\semestr 1\Project_Restaurant\Project\RestaurantManagement.ViewModel\bin\Debug\net9.0\RestaurantManagement.Models.dll
+C:\Users\karol\Desktop\Studia\2 rok\semestr 1\Project_Restaurant\Project\RestaurantManagement.ViewModel\bin\Debug\net9.0\RestaurantManagement.Models.pdb
+C:\Users\karol\Desktop\Studia\2 rok\semestr 1\Project_Restaurant\Project\RestaurantManagement.ViewModel\bin\Debug\net9.0\RestaurantManagement.DAL.pdb
+C:\Users\karol\Desktop\Studia\2 rok\semestr 1\Project_Restaurant\Project\RestaurantManagement.ViewModel\obj\Debug\net9.0\RestaurantManagement.ViewModel.csproj.AssemblyReference.cache
+C:\Users\karol\Desktop\Studia\2 rok\semestr 1\Project_Restaurant\Project\RestaurantManagement.ViewModel\obj\Debug\net9.0\RestaurantManagement.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karol\Desktop\Studia\2 rok\semestr 1\Project_Restaurant\Project\RestaurantManagement.ViewModel\obj\Debug\net9.0\RestaurantManagement.ViewModel.AssemblyInfoInputs.cache
+C:\Users\karol\Desktop\Studia\2 rok\semestr 1\Project_Restaurant\Project\RestaurantManagement.ViewModel\obj\Debug\net9.0\RestaurantManagement.ViewModel.AssemblyInfo.cs
+C:\Users\karol\Desktop\Studia\2 rok\semestr 1\Project_Restaurant\Project\RestaurantManagement.ViewModel\obj\Debug\net9.0\RestaurantManagement.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\karol\Desktop\Studia\2 rok\semestr 1\Project_Restaurant\Project\RestaurantManagement.ViewModel\obj\Debug\net9.0\Restaura.30D3972E.Up2Date
+C:\Users\karol\Desktop\Studia\2 rok\semestr 1\Project_Restaurant\Project\RestaurantManagement.ViewModel\obj\Debug\net9.0\RestaurantManagement.ViewModel.dll
+C:\Users\karol\Desktop\Studia\2 rok\semestr 1\Project_Restaurant\Project\RestaurantManagement.ViewModel\obj\Debug\net9.0\refint\RestaurantManagement.ViewModel.dll
+C:\Users\karol\Desktop\Studia\2 rok\semestr 1\Project_Restaurant\Project\RestaurantManagement.ViewModel\obj\Debug\net9.0\RestaurantManagement.ViewModel.pdb
+C:\Users\karol\Desktop\Studia\2 rok\semestr 1\Project_Restaurant\Project\RestaurantManagement.ViewModel\obj\Debug\net9.0\ref\RestaurantManagement.ViewModel.dll

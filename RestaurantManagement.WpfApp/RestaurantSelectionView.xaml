@@ -1,0 +1,76 @@
+﻿<Window x:Class="RestaurantManagement.Views.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Restaurant Selector" Height="550" Width="450"
+        Background="#F4F7F9" WindowStartupLocation="CenterScreen">
+
+    <Window.Resources>
+        <Style x:Key="ActionButtonStyle" TargetType="Button">
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="Padding" Value="10"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Background="{TemplateBinding Background}" CornerRadius="8">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <Style TargetType="Control" x:Key="InputStyle">
+            <Setter Property="Height" Value="35"/>
+            <Setter Property="VerticalContentAlignment" Value="Center"/>
+            <Setter Property="Margin" Value="0,5,0,15"/>
+        </Style>
+    </Window.Resources>
+
+    <Grid>
+        <Border VerticalAlignment="Top" Height="150" Background="#2C3E50"/>
+
+        <Border Background="White" 
+                CornerRadius="15" 
+                Margin="30,60,30,30" 
+                Padding="30">
+            <Border.Effect>
+                <DropShadowEffect BlurRadius="20" Color="#D0D7DE" Opacity="0.4" ShadowDepth="5"/>
+            </Border.Effect>
+
+            <StackPanel>
+                <TextBlock Text="Welcome" FontSize="22" FontWeight="ExtraBold" Foreground="#2C3E50" HorizontalAlignment="Center"/>
+                <TextBlock Text="Select a restaurant to manage" Foreground="Gray" Margin="0,5,0,20" HorizontalAlignment="Center"/>
+
+                <TextBlock Text="Existing Restaurants" FontWeight="SemiBold" FontSize="12" Foreground="#7F8C8D"/>
+                <ComboBox ItemsSource="{Binding Restaurants}"
+                          SelectedItem="{Binding SelectedRestaurant}"
+                          DisplayMemberPath="Name"
+                          Style="{StaticResource InputStyle}"/>
+
+                <Button Content="🚀 Continue to Dashboard" 
+                        Click="Continue_Click" 
+                        Style="{StaticResource ActionButtonStyle}"
+                        Background="#3498DB"
+                        Height="45"/>
+
+                <Grid Margin="0,25">
+                    <Separator Background="#ECF0F1"/>
+                    <TextBlock Text="OR" Background="White" HorizontalAlignment="Center" VerticalAlignment="Center" Padding="10,0" Foreground="#BDC3C7" FontWeight="Bold"/>
+                </Grid>
+
+                <TextBlock Text="Create New Entity" FontWeight="SemiBold" FontSize="12" Foreground="#7F8C8D"/>
+                <TextBox x:Name="NewRestaurantNameTextBox" 
+                         Style="{StaticResource InputStyle}"
+                         Padding="5,0"/>
+
+                <Button Content="➕ Add New Restaurant" 
+                        Click="AddRestaurant_Click" 
+                        Style="{StaticResource ActionButtonStyle}"
+                        Background="#2ECC71"
+                        Height="45"/>
+            </StackPanel>
+        </Border>
+    </Grid>
+</Window>

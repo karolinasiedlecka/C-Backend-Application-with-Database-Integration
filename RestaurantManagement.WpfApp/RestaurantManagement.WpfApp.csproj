@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net9.0-windows8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Project.Model\RestaurantManagement.Models.csproj" />
+    <ProjectReference Include="..\RestaurantManagement.DAL\RestaurantManagement.DAL.csproj" />
+    <ProjectReference Include="..\RestaurantManagement.View.Abstractions\RestaurantManagement.View.Abstractions.csproj" />
+    <ProjectReference Include="..\RestaurantManagement.ViewModel\RestaurantManagement.ViewModel.csproj" />
+    <ProjectReference Include="..\RestaurantManagement.Views\RestaurantManagement.Views.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="RestaurantSelectionView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+
+</Project>

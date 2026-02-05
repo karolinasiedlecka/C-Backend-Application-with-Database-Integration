@@ -1,0 +1,34 @@
+C:\Users\karol\Documents\Karolina_Siedlecka\Project\Project.Model\bin\Debug\net9.0\RestaurantManagement.Models.deps.json
+C:\Users\karol\Documents\Karolina_Siedlecka\Project\Project.Model\bin\Debug\net9.0\RestaurantManagement.Models.dll
+C:\Users\karol\Documents\Karolina_Siedlecka\Project\Project.Model\bin\Debug\net9.0\RestaurantManagement.Models.pdb
+C:\Users\karol\Documents\Karolina_Siedlecka\Project\Project.Model\obj\Debug\net9.0\RestaurantManagement.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karol\Documents\Karolina_Siedlecka\Project\Project.Model\obj\Debug\net9.0\RestaurantManagement.Models.AssemblyInfoInputs.cache
+C:\Users\karol\Documents\Karolina_Siedlecka\Project\Project.Model\obj\Debug\net9.0\RestaurantManagement.Models.AssemblyInfo.cs
+C:\Users\karol\Documents\Karolina_Siedlecka\Project\Project.Model\obj\Debug\net9.0\RestaurantManagement.Models.csproj.CoreCompileInputs.cache
+C:\Users\karol\Documents\Karolina_Siedlecka\Project\Project.Model\obj\Debug\net9.0\RestaurantManagement.Models.sourcelink.json
+C:\Users\karol\Documents\Karolina_Siedlecka\Project\Project.Model\obj\Debug\net9.0\RestaurantManagement.Models.dll
+C:\Users\karol\Documents\Karolina_Siedlecka\Project\Project.Model\obj\Debug\net9.0\refint\RestaurantManagement.Models.dll
+C:\Users\karol\Documents\Karolina_Siedlecka\Project\Project.Model\obj\Debug\net9.0\RestaurantManagement.Models.pdb
+C:\Users\karol\Documents\Karolina_Siedlecka\Project\Project.Model\obj\Debug\net9.0\ref\RestaurantManagement.Models.dll
+C:\Users\karol\Desktop\Project_Restaurant\Project\Project.Model\bin\Debug\net9.0\RestaurantManagement.Models.deps.json
+C:\Users\karol\Desktop\Project_Restaurant\Project\Project.Model\bin\Debug\net9.0\RestaurantManagement.Models.dll
+C:\Users\karol\Desktop\Project_Restaurant\Project\Project.Model\bin\Debug\net9.0\RestaurantManagement.Models.pdb
+C:\Users\karol\Desktop\Project_Restaurant\Project\Project.Model\obj\Debug\net9.0\RestaurantManagement.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karol\Desktop\Project_Restaurant\Project\Project.Model\obj\Debug\net9.0\RestaurantManagement.Models.AssemblyInfoInputs.cache
+C:\Users\karol\Desktop\Project_Restaurant\Project\Project.Model\obj\Debug\net9.0\RestaurantManagement.Models.AssemblyInfo.cs
+C:\Users\karol\Desktop\Project_Restaurant\Project\Project.Model\obj\Debug\net9.0\RestaurantManagement.Models.csproj.CoreCompileInputs.cache
+C:\Users\karol\Desktop\Project_Restaurant\Project\Project.Model\obj\Debug\net9.0\RestaurantManagement.Models.dll
+C:\Users\karol\Desktop\Project_Restaurant\Project\Project.Model\obj\Debug\net9.0\refint\RestaurantManagement.Models.dll
+C:\Users\karol\Desktop\Project_Restaurant\Project\Project.Model\obj\Debug\net9.0\RestaurantManagement.Models.pdb
+C:\Users\karol\Desktop\Project_Restaurant\Project\Project.Model\obj\Debug\net9.0\ref\RestaurantManagement.Models.dll
+C:\Users\karol\Desktop\Studia\2 rok\semestr 1\Project_Restaurant\Project\Project.Model\bin\Debug\net9.0\RestaurantManagement.Models.deps.json
+C:\Users\karol\Desktop\Studia\2 rok\semestr 1\Project_Restaurant\Project\Project.Model\bin\Debug\net9.0\RestaurantManagement.Models.dll
+C:\Users\karol\Desktop\Studia\2 rok\semestr 1\Project_Restaurant\Project\Project.Model\bin\Debug\net9.0\RestaurantManagement.Models.pdb
+C:\Users\karol\Desktop\Studia\2 rok\semestr 1\Project_Restaurant\Project\Project.Model\obj\Debug\net9.0\RestaurantManagement.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karol\Desktop\Studia\2 rok\semestr 1\Project_Restaurant\Project\Project.Model\obj\Debug\net9.0\RestaurantManagement.Models.AssemblyInfoInputs.cache
+C:\Users\karol\Desktop\Studia\2 rok\semestr 1\Project_Restaurant\Project\Project.Model\obj\Debug\net9.0\RestaurantManagement.Models.AssemblyInfo.cs
+C:\Users\karol\Desktop\Studia\2 rok\semestr 1\Project_Restaurant\Project\Project.Model\obj\Debug\net9.0\RestaurantManagement.Models.csproj.CoreCompileInputs.cache
+C:\Users\karol\Desktop\Studia\2 rok\semestr 1\Project_Restaurant\Project\Project.Model\obj\Debug\net9.0\RestaurantManagement.Models.dll
+C:\Users\karol\Desktop\Studia\2 rok\semestr 1\Project_Restaurant\Project\Project.Model\obj\Debug\net9.0\refint\RestaurantManagement.Models.dll
+C:\Users\karol\Desktop\Studia\2 rok\semestr 1\Project_Restaurant\Project\Project.Model\obj\Debug\net9.0\RestaurantManagement.Models.pdb
+C:\Users\karol\Desktop\Studia\2 rok\semestr 1\Project_Restaurant\Project\Project.Model\obj\Debug\net9.0\ref\RestaurantManagement.Models.dll

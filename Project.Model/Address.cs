@@ -1,0 +1,29 @@
+﻿using RestaurantManagement.Models.Interfaces;
+
+namespace RestaurantManagement.Models
+{
+    public class Address
+    {
+        public int Id { get; set; } // PK dla EF
+
+        public string Country { get; set; }
+        public string ZipCode { get; set; }
+        public string City { get; set; }
+        public string Street { get; set; }
+
+
+
+        public Address(string country, string zipCode, string city, string street)
+        {
+            Country = country;
+            ZipCode = zipCode;
+            City = city;
+            Street = street;
+        }
+
+        public override string ToString()
+        {
+            return $"Country: {Country}, Zip-Code: {ZipCode} - {City}\n Street: {Street}";
+        }
+    }
+}

@@ -1,0 +1,2 @@
+C:\Users\karol\Desktop\Studia\2 rok\semestr 1\Project_Restaurant\Project\RestaurantManagement.WpfApp\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\karol\Desktop\Studia\2 rok\semestr 1\Project_Restaurant\Project\RestaurantManagement.WpfApp\obj\Debug\net8.0-windows\RestaurantManagement.WpfApp_MarkupCompile.cache

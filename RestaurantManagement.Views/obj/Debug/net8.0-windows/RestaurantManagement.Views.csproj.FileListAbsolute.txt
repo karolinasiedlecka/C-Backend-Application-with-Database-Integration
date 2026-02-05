@@ -1,0 +1,6 @@
+C:\Users\karol\Desktop\Studia\2 rok\semestr 1\Project_Restaurant\Project\RestaurantManagement.Views\obj\Debug\net8.0-windows\EmployeesView.g.cs
+C:\Users\karol\Desktop\Studia\2 rok\semestr 1\Project_Restaurant\Project\RestaurantManagement.Views\obj\Debug\net8.0-windows\MenuView.g.cs
+C:\Users\karol\Desktop\Studia\2 rok\semestr 1\Project_Restaurant\Project\RestaurantManagement.Views\obj\Debug\net8.0-windows\ReservationsView.g.cs
+C:\Users\karol\Desktop\Studia\2 rok\semestr 1\Project_Restaurant\Project\RestaurantManagement.Views\obj\Debug\net8.0-windows\RestaurantSelectionView.g.cs
+C:\Users\karol\Desktop\Studia\2 rok\semestr 1\Project_Restaurant\Project\RestaurantManagement.Views\obj\Debug\net8.0-windows\RestaurantManagement.Views_MarkupCompile.cache
+C:\Users\karol\Desktop\Studia\2 rok\semestr 1\Project_Restaurant\Project\RestaurantManagement.Views\obj\Debug\net8.0-windows\RestaurantManagement.Views_MarkupCompile.lref
